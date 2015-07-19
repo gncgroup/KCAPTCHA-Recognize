@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\FractureRecognize\FractureRecognize\bin\Release\FractureRecognize.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\FractureRecognize\FractureRecognize\bin\Release\FractureRecognize.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\FractureRecognize\FractureRecognize\bin\Release\FractureRecognize.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\FractureRecognize\FractureRecognize\obj\Release\FractureRecognize.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\FractureRecognize\FractureRecognize\obj\Release\FractureRecognize.pdb
+C:\Users\user\Desktop\FractureRecognize\FractureRecognize\bin\Release\FractureRecognize.exe.config
+C:\Users\user\Desktop\FractureRecognize\FractureRecognize\obj\Release\FractureRecognize.exe
+C:\Users\user\Desktop\FractureRecognize\FractureRecognize\obj\Release\FractureRecognize.pdb
+C:\Users\user\Desktop\FractureRecognize\FractureRecognize\bin\Release\FractureRecognize.exe
+C:\Users\user\Desktop\FractureRecognize\FractureRecognize\bin\Release\FractureRecognize.pdb
+C:\Users\user\Desktop\FractureRecognize\FractureRecognize\obj\Release\FractureRecognize.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\FractureRecognize\FractureRecognize\bin\Release\Cloo.dll
+C:\Users\user\Desktop\FractureRecognize\FractureRecognize\bin\Release\Cloo.xml
+C:\Users\user\Desktop\CrazyRecognize\FractureRecognize\bin\Release\FractureRecognize.exe.config
+C:\Users\user\Desktop\CrazyRecognize\FractureRecognize\obj\Release\FractureRecognize.exe
+C:\Users\user\Desktop\CrazyRecognize\FractureRecognize\obj\Release\FractureRecognize.pdb

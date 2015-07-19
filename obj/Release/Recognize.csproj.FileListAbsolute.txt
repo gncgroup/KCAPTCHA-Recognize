@@ -1,0 +1,24 @@
+C:\Users\user\Desktop\CrazyRecognize\FractureRecognize\obj\Release\FractureRecognize.exe
+C:\Users\user\Desktop\CrazyRecognize\FractureRecognize\obj\Release\FractureRecognize.pdb
+C:\Users\user\Desktop\CrazyRecognize\FractureRecognize\bin\Release\FractureRecognize.exe.config
+C:\Users\user\Desktop\CrazyRecognize\FractureRecognize\bin\Release\FractureRecognize.exe
+C:\Users\user\Desktop\CrazyRecognize\FractureRecognize\bin\Release\FractureRecognize.pdb
+C:\Users\user\Desktop\CrazyRecognize\FractureRecognize\bin\Release\Cloo.dll
+C:\Users\user\Desktop\CrazyRecognize\FractureRecognize\bin\Release\Cloo.xml
+C:\Users\user\Desktop\CrazyRecognize\FractureRecognize\obj\Release\Recognize.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\KCAPTCHA Recoginze\FractureRecognize\obj\Release\Recognize.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\KCAPTCHA Recoginze\FractureRecognize\bin\Release\Cloo.dll
+C:\Users\user\Desktop\KCAPTCHA Recoginze\FractureRecognize\bin\Release\Cloo.xml
+C:\Users\user\Desktop\KCAPTCHA Recoginze\FractureRecognize\bin\Release\Recognize.exe.config
+C:\Users\user\Desktop\KCAPTCHA Recoginze\FractureRecognize\bin\Release\Recognize.exe
+C:\Users\user\Desktop\KCAPTCHA Recoginze\FractureRecognize\bin\Release\Recognize.pdb
+C:\Users\user\Desktop\KCAPTCHA Recoginze\FractureRecognize\obj\Release\Recognize.exe
+C:\Users\user\Desktop\KCAPTCHA Recoginze\FractureRecognize\obj\Release\Recognize.pdb
+C:\Users\user\Desktop\KCAPTCHA Recoginze\bin\Release\Recognize.exe.config
+C:\Users\user\Desktop\KCAPTCHA Recoginze\obj\Release\Recognize.exe
+C:\Users\user\Desktop\KCAPTCHA Recoginze\obj\Release\Recognize.pdb
+C:\Users\user\Desktop\KCAPTCHA Recoginze\obj\Release\Recognize.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\KCAPTCHA Recoginze\bin\Release\Recognize.exe
+C:\Users\user\Desktop\KCAPTCHA Recoginze\bin\Release\Recognize.pdb
+C:\Users\user\Desktop\KCAPTCHA Recoginze\bin\Release\Cloo.dll
+C:\Users\user\Desktop\KCAPTCHA Recoginze\bin\Release\Cloo.xml
