@@ -73,7 +73,7 @@
   <ItemGroup>
     <Compile Include="ImageProcess.cs" />
     <Compile Include="Neuron.cs" />
-    <Compile Include="Trade.cs" />
+    <Compile Include="Test.cs" />
     <Compile Include="NeuroNet.cs" />
     <Compile Include="Recognize.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
